@@ -11,7 +11,7 @@ Use Case 1
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Developer: To upload pertinent and meaningful information to the database.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Project Owner: To clearly understand corporate manager decisions to green/red light a project.</p>
 <p><b>•	Preconditions:</b></p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant file/package information is stored in SPDX database.</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant file/package information is stored in license and vulnerability database.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Proper project information has been provided.</p>
 <p><b>•	Main Success Scenario:</b> Corporate manager receives accurate license and vulnerability information for the requested project package.</p>
 <p><b>•	Failed End Conditions:</b> Corporate manager receives inaccurate or wrong license and vulnerability information for the requested project package.</p>
