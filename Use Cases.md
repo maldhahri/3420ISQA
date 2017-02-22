@@ -33,7 +33,7 @@ Use Case 2
 <p><b>•	Preconditions:</b></p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Policy information has been created and is available in the policy database .</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Proper project information has been provided.</p>
-<p><b>•	Main Success Scenario:</b> CCorporate manager receives accurate policy information for the requested project package.</p>
+<p><b>•	Main Success Scenario:</b> Corporate manager receives accurate policy information for the requested project package.</p>
 <p><b>•	Failed End Conditions:</b> Corporate manager receives inaccurate or wrong policy information for the requested project package.</p>
 <p><b>•	Trigger:</b> Corporate manager uploads or identifies project information to which policy information is provided.</p>
 </div>
@@ -43,9 +43,9 @@ Use Case 2
 Use Case 3
 </h1>
 
-<p><b>•	Title:</b> Edit Existing Policy for Software</p>
+<p><b>•	Title:</b> Create New Policy and Edit an Existing Policy for Software</p>
 <P><b>•	Primary Actor: </b>Corporate Manager.</p>
-<P><b>•	Goal in Context:</b>  The corporate manager is able to edit policy information .</p>
+<P><b>•	Goal in Context:</b>  The corporate manager is able to create new policy or edit an existing policy information .</p>
 <p><b>•	Stakeholders:</b></p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Manager:  To edit policy information.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Developer: To receive clear and relevant edited policy information.</p>
